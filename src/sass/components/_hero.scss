@@ -5,7 +5,7 @@
   @include mixins.center-block(functions.rem(1280px));
   @include mixins.display-flex(center, center);
 
-  background-color: functions.css-color("primary");
+  background-color:seagreen;
   width: 100%;
 
   @include mixins.breakpoint("md") {

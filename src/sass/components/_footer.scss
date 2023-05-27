@@ -4,7 +4,7 @@
 .c-footer {
   @include mixins.display-flex(flex-start, space-between);
 
-  background-color: functions.css-color("primary");
+  background-color: seagreen;
   padding: functions.rem(40px) functions.rem(25px);
   width: 100%;
   flex-direction: column;
@@ -82,7 +82,7 @@
     @include mixins.center-block(functions.rem(1280px));
     @include mixins.font-size-line-height(functions.rem(14px), functions.rem(22px));
 
-    border-top: functions.rem(1px) solid functions.css-color("quinquenary");
+    border-top: functions.rem(1px) solid functions.css-color("dark");
     color: functions.css-color("white");
     font-weight: functions.css-weight("thin");
     margin-top: functions.rem(36px);

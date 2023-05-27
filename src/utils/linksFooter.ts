@@ -1,17 +1,14 @@
 export const linksFooter = [
   {
-    title: 'New arrivals',
+    title: 'Anasayfa',
   },
   {
-    title: 'Best sellers',
+    title: 'Instagram',
   },
   {
-    title: 'Recently viewed',
+    title: 'Twitter',
   },
   {
-    title: 'Popular this week',
-  },
-  {
-    title: 'All products',
+    title: 'Mail',
   },
 ];

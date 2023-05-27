@@ -7,7 +7,7 @@ const Products: React.FC = () => {
 	return (
 		<Layout>
 			<section>
-				<h1 className='p-products__title'>View all Products</h1>
+				<h1 className='p-products__title'>Tüm içerikleri görün</h1>
 				<Filters />
 				<ListingProducts />
 			</section>
